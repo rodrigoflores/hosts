@@ -1,7 +1,7 @@
 Sublime Hosts
 =============
 
-Support for your /etc/hosts file.
+Support for your /etc/hosts file, including easy commenting and syntax.
 
 ## Install
 
