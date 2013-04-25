@@ -14,3 +14,4 @@ $ git clone git@github.com:rodrigoflores/sublime-hosts.git
 ## TODO
 
 * Better regexes on tmLanguage file
+* Automatic detection of hosts file
